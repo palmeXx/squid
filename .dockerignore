@@ -1,0 +1,9 @@
+.git
+.tmp
+LICENSE
+README.md
+Changelog.md
+Makefile
+docker-compose.yaml
+Chart
+examples
