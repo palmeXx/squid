@@ -9,6 +9,6 @@ RUN apk update \
 COPY scripts /
 
 EXPOSE 3128/tcp
-ENTRYPOINT ["entrypoint.sh"]
+ENTRYPOINT ["/entrypoint.sh"]
 
 
